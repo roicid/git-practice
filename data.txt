@@ -1,0 +1,3 @@
+nombre : juan carlos  
+edad : 25 años
+color preferido : Rojo
